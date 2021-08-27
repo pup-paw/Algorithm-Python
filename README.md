@@ -9,10 +9,10 @@
     1. 1일 1 commit을 목표로 한다.  
     2. 티어 순서별로 폴더를 만들며 티어를 높인다.
 ### 🏃‍♂️How is it going?🏃‍♂️
-
-### 🎖result🎖
   > <details markdown="1">
   > <summary>1000 ~ 1009</summary>
-  > [1000](https://github.com/pup-paw/Baekjoon-Python/blob/main/bronze5/1000.py)  
+  > [1000](https://github.com/pup-paw/Baekjoon-Python/blob/main/bronze5/1000.py)
   > [1001](https://github.com/pup-paw/Baekjoon-Python/blob/main/bronze5/1001.py)
   > </details>
+### 🎖result🎖
+  
