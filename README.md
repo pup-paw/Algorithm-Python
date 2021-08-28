@@ -19,8 +19,6 @@
   <summary>1000 ~ 1009</summary>
 
 [1000](https://github.com/pup-paw/Baekjoon-Python/blob/main/bronze5/1000.py)  
- [1001](https://github.com/pup-paw/Baekjoon-Python/blob/main/bronze5/1001.py)
-
   </details>
 
 ### 🎖result🎖
