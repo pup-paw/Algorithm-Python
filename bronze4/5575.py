@@ -10,7 +10,10 @@ def f(a, b, c, d, e, f):
         else:
             print(d-a, e-b-1, f-c+60)
     else:
-        print(d-a, e-b, f-c)
+        if e-b < 0:
+            print(d-a-1, e-b+60, f-c)
+        else:
+            print(d-a, e-b, f-c)
 
 
 f(ah1, am1, as1, ah2, am2, as2)
