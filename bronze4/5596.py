@@ -1,6 +1,5 @@
 a = list(map(int, input().split()))
 b = list(map(int, input().split()))
-print(a)
 s = 0
 t = 0
 for i in range(len(a)):
