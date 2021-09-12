@@ -69,6 +69,7 @@
     [DIAMOND2]()  
     [DIAMOND1]()  
   </details>
+  <details>
   <summary>RUBY</summary>
 
     [RUBY5]()  
