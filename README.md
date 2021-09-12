@@ -16,9 +16,67 @@
 ### 🏃‍♂️How is it going?🏃‍♂️
 
   <details>
-  <summary>1000 ~ 1009</summary>
+  <summary>BRONZE</summary>
 
-[1000](https://github.com/pup-paw/Baekjoon-Python/blob/main/bronze5/1000.py)  
+    [BRONZE5](https://github.com/pup-paw/Baekjoon-Python/tree/main/bronze5)  
+    [BRONZE4](https://github.com/pup-paw/Baekjoon-Python/tree/main/bronze4)  
+    [BRONZE3]()  
+    [BRONZE2]()  
+    [BRONZE1]()  
   </details>
+  <details>
+  <summary>SILVER</summary>
+
+    [BRONZE5]()  
+    [BRONZE4]()  
+    [BRONZE3]()  
+    [BRONZE2]()  
+    [BRONZE1]()  
+  </details>
+  <details>
+  <summary>SILVER</summary>
+
+    [SILVER5]()  
+    [SILVER4]()  
+    [SILVER3]()  
+    [SILVER2]()  
+    [SILVER1]()  
+  </details>
+  <details>
+  <summary>GOLD</summary>
+
+    [GOLD5]()  
+    [GOLD4]()  
+    [GOLD3]()  
+    [GOLD2]()  
+    [GOLD1]()  
+  </details>
+  <details>
+  <summary>PLATINUM</summary>
+
+    [PLATINUM5]()  
+    [PLATINUM4]()  
+    [PLATINUM3]()  
+    [PLATINUM2]()  
+    [PLATINUM1]()  
+  </details>
+  <details>
+  <summary>DIAMOND</summary>
+
+    [DIAMOND5]()  
+    [DIAMOND4]()  
+    [DIANOMD3]()  
+    [DIAMOND2]()  
+    [DIAMOND1]()  
+  </details>
+  <summary>RUBY</summary>
+
+    [RUBY5]()  
+    [RUBY4]()  
+    [RUBY3]()  
+    [RUBY2]()  
+    [RUBY1]()  
+  </details>
+  
 
 ### 🎖result🎖
