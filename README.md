@@ -27,15 +27,6 @@
   <details markdown="1">
   <summary>SILVER</summary>
 
-  [BRONZE5]()  
-  [BRONZE4]()  
-  [BRONZE3]()  
-  [BRONZE2]()  
-  [BRONZE1]()  
-  </details>
-  <details markdown="1">
-  <summary>SILVER</summary>
-
   [SILVER5]()  
   [SILVER4]()  
   [SILVER3]()  
