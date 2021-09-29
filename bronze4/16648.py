@@ -4,5 +4,5 @@ if p <= 20:
     x = t / (120 - 2 * p)
     print(p * 2 * x)
 else:
-    x = (100 - p) / t
+    x = t / (100 - p)
     print((p - 20) * x + 20 * 2 * x)
