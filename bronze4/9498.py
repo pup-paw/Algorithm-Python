@@ -1,5 +1,5 @@
 a = int(input())
-if 90 <= a <= 100:
+if a >= 90:
     print("A")
 elif a >= 80:
     print("B")
