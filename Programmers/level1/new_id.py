@@ -5,9 +5,26 @@ def solution(new_id):
     chr = "~!@#$%^&*()=+[{]}:?,<>/"
     new_id = ''.join(x for x in new_id if x not in chr)
     # 3
-    for i in range(1, len(new_id)):
-        if new_id[i] == '.' and new_id[i-1] == '.':
-            new_id.replace(new_id[i], '')
+    while '..' in new_id:
+        new_id = new_id.replace('..', '.')
+    # 4
+    if new_id[0] == '.':
+        new_id = new_id[1:]
+    if new_id[-1:] == '.':
+        new_id = new_id[:-1]
+    # 5
+    if len(new_id) == 0:
+        new_id = "a"
+    # 6
+    if len(new_id) >= 16:
+        new_id = new_id[:15]
+    if new_id[-1:] == '.':
+        new_id = new_id[:-1]
+    # 7
+    if len(new_id) <= 2:
+        for i in range(3-len(new_id)):
+            new_id += new_id[-1:]
+
     return new_id
 
 
