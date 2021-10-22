@@ -15,7 +15,7 @@
     3. 리뷰가 필요한 문제는 velog에 기록을 한다.
 
 ### 🏃‍♂️How is it going?🏃‍♂️
-
+> 🖍 [velog](https://velog.io/@pup-paw/series/PROGRAMMERS) 
   - [ ] [LEVEL1](https://github.com/pup-paw/Algorithm-Python/tree/main/Programmers/level1)  
   - [ ] [LEVEL2](https://github.com/pup-paw/Algorithm-Python/tree/main/Programmers/level2)  
   - [ ] [LEVEL3](https://github.com/pup-paw/Algorithm-Python/tree/main/Programmers/level3)  
