@@ -13,14 +13,16 @@
     1. 1일 1 commit을 목표로 한다.
     2. 단계 순서대로 문제를 풀며 필요시 문제를 추가한다.
     3. 티어 순서별로 폴더를 만들며 티어를 높인다.
+    4. 리뷰가 필요한 문제는 velog에 기록을 한다.
 
 ### 🏃‍♂️How is it going?🏃‍♂️
+> 🖍 [velog](https://velog.io/@pup-paw/series/BAEKJOON)
 
   <details markdown="1">
   <summary>BRONZE</summary>
     
-  [BRONZE5](https://github.com/pup-paw/Baekjoon-Python/tree/main/bronze5)   
-  [BRONZE4](https://github.com/pup-paw/Baekjoon-Python/tree/main/bronze4)  
+  [BRONZE5](https://github.com/pup-paw/Baekjoon-Python/tree/main/Baekjoon/bronze5)   
+  [BRONZE4](https://github.com/pup-paw/Baekjoon-Python/tree/main/Beakjoon/bronze4)  
   [BRONZE3]()  
   [BRONZE2]()  
   [BRONZE1]()  
