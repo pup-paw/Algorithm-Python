@@ -19,8 +19,8 @@
   <details markdown="1">
   <summary>BAEKJOON</summary>
     
-  - [ ] [BRONZE](https://github.com/pup-paw/Baekjoon-Python/tree/main/Baekjoon/bronze)   
-  - [ ] [SIVER](https://github.com/pup-paw/Baekjoon-Python/tree/main/Baekjoon/silver)  
+  - [ ] [BRONZE](https://github.com/pup-paw/Baekjoon-Python/tree/main/Baekjoon)   
+  - [ ] [SIVER](https://github.com/pup-paw/Baekjoon-Python/tree/main/Baekjoon)  
   - [ ] [GOLD]()  
   - [ ] [PLATINUM]()  
   - [ ] [DIAMOND]()
