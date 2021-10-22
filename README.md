@@ -1,4 +1,4 @@
-# Baekjoon-Python
+# Algorithm-Python
 
 ### 🧎‍♂️Why did I start?🧎‍♂️
 
@@ -6,69 +6,34 @@
 
 ### 🚶‍♂️What's the plan?🚶‍♂️
 
-> 문제 : [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/)
+> 백준 | [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/)
+> 프로그래머스 | [PROGRAMMERS](https://programmers.co.kr/learn/challenges)
 
 > 공부 방법
 
     1. 1일 1 commit을 목표로 한다.
-    2. 단계 순서대로 문제를 풀며 필요시 문제를 추가한다.
-    3. 티어 순서별로 폴더를 만들며 티어를 높인다.
+    2. 리뷰가 필요한 문제는 velog에 기록을 한다.
 
 ### 🏃‍♂️How is it going?🏃‍♂️
 
   <details markdown="1">
-  <summary>BRONZE</summary>
+  <summary>BAEKJOON</summary>
     
-  [BRONZE5](https://github.com/pup-paw/Baekjoon-Python/tree/main/bronze5)   
-  [BRONZE4](https://github.com/pup-paw/Baekjoon-Python/tree/main/bronze4)  
-  [BRONZE3]()  
-  [BRONZE2]()  
-  [BRONZE1]()  
+  - [ ] [BRONZE](https://github.com/pup-paw/Baekjoon-Python/tree/main/Baekjoon/bronze)   
+  - [ ] [SIVER](https://github.com/pup-paw/Baekjoon-Python/tree/main/Baekjoon/silver)  
+  - [ ] [GOLD]()  
+  - [ ] [PLATINUM]()  
+  - [ ] [DIAMOND]()
+  - [ ] [RUBY]()
   </details>
   <details markdown="1">
-  <summary>SILVER</summary>
+  <summary>PROGRAMMERS</summary>
 
-  [SILVER5]()  
-  [SILVER4]()  
-  [SILVER3]()  
-  [SILVER2]()  
-  [SILVER1]()  
-  </details>
-  <details markdown="1">
-  <summary>GOLD</summary>
-
-  [GOLD5]()  
-  [GOLD4]()  
-  [GOLD3]()  
-  [GOLD2]()  
-  [GOLD1]()  
-  </details>
-  <details markdown="1">
-  <summary>PLATINUM</summary>
-
-  [PLATINUM5]()  
-  [PLATINUM4]()  
-  [PLATINUM3]()  
-  [PLATINUM2]()  
-  [PLATINUM1]()  
-  </details>
-  <details markdown="1">
-  <summary>DIAMOND</summary>
-
-  [DIAMOND5]()  
-  [DIAMOND4]()  
-  [DIANOMD3]()  
-  [DIAMOND2]()  
-  [DIAMOND1]()  
-  </details>
-  <details markdown="1">
-  <summary>RUBY</summary>
-
-  [RUBY5]()  
-  [RUBY4]()  
-  [RUBY3]()  
-  [RUBY2]()  
-  [RUBY1]()  
+  - [ ] [LEVEL1](https://github.com/pup-paw/Baekjoon-Python/tree/main/Programmers/level1)  
+  - [ ] [LEVEL2]()  
+  - [ ] [LEVEL3]()  
+  - [ ] [LEVEL2]()  
+  - [ ] [LEVEL1]()  
   </details>
   
 
