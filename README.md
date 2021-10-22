@@ -6,7 +6,7 @@
 
 ### 🚶‍♂️What's the plan?🚶‍♂️
 
-> 백준 | [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/)
+> 백준 | [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/)  
 > 프로그래머스 | [PROGRAMMERS](https://programmers.co.kr/learn/challenges)
 
 > 공부 방법
