@@ -25,12 +25,10 @@ def solution(dartResult):
             elif y == 'T':
                 n **= 3
             elif y == '*':
-                answer[i-1] *= 2
-                print(answer)
+                answer[i] *= 2
                 n *= 2
             elif y == '#':
                 n *= -1
-            print(n)
         answer.append(n)
 
     return sum(answer)
