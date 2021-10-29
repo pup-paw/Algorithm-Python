@@ -7,8 +7,9 @@ def solution(dartResult):
             l.append(dartResult[j:])
             break
         if i != 0 and 47 < ord(x) < 58:
-            l.append(dartResult[j:i])
-            j = i
+            if not(47 < ord(dartResult[i-1]) < 58):
+                l.append(dartResult[j:i])
+                j = i
     print(l)
     for i, x in enumerate(l):
         n = 0
@@ -34,4 +35,4 @@ def solution(dartResult):
     return sum(answer)
 
 
-print(solution("1S*2T*3S"))
+print(solution("10S*2T*3S"))
