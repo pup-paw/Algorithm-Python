@@ -1,38 +1,23 @@
 def solution(dartResult):
-    answer = [0]
-    l = list()
-    j = 0
-    for i, x in enumerate(dartResult[:]):
-        if len(l) == 2:
-            l.append(dartResult[j:])
-            break
-        if i != 0 and 47 < ord(x) < 58:
-            if not(47 < ord(dartResult[i-1]) < 58):
-                l.append(dartResult[j:i])
-                j = i
-    print(l)
-    for i, x in enumerate(l):
-        n = 0
-        for k, y in enumerate(x):
-            if 47 < ord(y) < 58:
-                if 47 < ord(x[k-1]) < 58:
-                    n = n*10 + int(y)
-                else:
-                    n = int(y)
-            elif y == 'S':
-                n **= 1
-            elif y == 'D':
-                n **= 2
-            elif y == 'T':
-                n **= 3
-            elif y == '*':
-                answer[i] *= 2
-                n *= 2
-            elif y == '#':
-                n *= -1
-        answer.append(n)
+    dartResult = dartResult.replace('10', 'x')
+    dart = ['10' if x == 'x' else x for x in dartResult]
+    point = list()
 
-    return sum(answer)
+    i = -1
+    sdt = ['S', 'D', 'T']
+    for x in dart:
+        if x in sdt:
+            point[i] **= sdt.index(x) + 1
+        elif x == '*':
+            if i != 0:
+                point[i-1] *= 2
+            point[i] *= 2
+        elif x == '#':
+            point[i] *= -1
+        else:
+            point.append(int(x))
+            i += 1
+    return sum(point)
 
 
 print(solution("10S*2T*3S"))
